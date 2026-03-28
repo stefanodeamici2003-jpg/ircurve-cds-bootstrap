@@ -19,12 +19,4 @@ Full interest rate and credit curve construction from market instruments, with b
 
 ## How to Run
 
-All code is in MATLAB. Navigate to the project folder and run the main scripts:
-```matlab
-main_ir_bootstrap.m      % Interest rate curve construction
-main_cds_bootstrap.m     % Credit curve and survival probabilities
-main_mc_credit.m         % Monte Carlo credit simulation
-main_asset_swap.m        % Asset Swap Spread pricing
-```
-
-Each script loads
+All code is in MATLAB. Navigate to the project folder and run the desired main sections.
